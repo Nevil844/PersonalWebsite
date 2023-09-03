@@ -1,1 +1,1 @@
-Website using WebDev by Angela Yu
+Simple website using HTML and CSS
